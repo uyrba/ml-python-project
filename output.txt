@@ -1,0 +1,41 @@
+Original number of data points: 100000
+Number of data points after filtering: 21594
+
+data points for training: 19434
+data points for validation: 1080
+data points for testing: 1080
+
+Training error for degree 1 polynomial: 0.00028267587510620953
+Validation error for degree 1 polynomial: 0.00028095728458445764
+Training error for degree 2 polynomial: 0.0002974380501417124
+Validation error for degree 2 polynomial: 0.0003017821836208951
+Training error for degree 3 polynomial: 0.0002974376022571067
+Validation error for degree 3 polynomial: 0.000301782098424484
+Training error for degree 4 polynomial: 0.0002974376015578158
+Validation error for degree 4 polynomial: 0.0003017820986412702
+Training error for degree 5 polynomial: 0.00029743760156569743
+Validation error for degree 5 polynomial: 0.0003017820986408325
+Training error for degree 6 polynomial: 0.0002974396031619421
+Validation error for degree 6 polynomial: 0.00030178209864083335
+Training error for degree 7 polynomial: 0.0002974376015540069
+Validation error for degree 7 polynomial: 0.00030178209864083335
+Training error for degree 8 polynomial: 0.00029743760155400697
+Validation error for degree 8 polynomial: 0.00030178209864083335
+Training error for degree 9 polynomial: 0.0002974376015540142
+Validation error for degree 9 polynomial: 0.00030178209864083335
+Training error for degree 10 polynomial: 0.00029743760155411105
+Validation error for degree 10 polynomial: 0.00030178209864083335
+Training error for degree 11 polynomial: 0.00029743760156457024
+Validation error for degree 11 polynomial: 0.00030178209864083335
+Training error for degree 12 polynomial: 0.0002974376019192545
+Validation error for degree 12 polynomial: 0.00030178209864083335
+Training error for degree 13 polynomial: 0.00029743857337698166
+Validation error for degree 13 polynomial: 0.00030178209864083335
+Training error for degree 14 polynomial: 0.0002974376015540069
+Validation error for degree 14 polynomial: 0.00030178209864083335
+Training error for degree 15 polynomial: 0.0002974376015540092
+Validation error for degree 15 polynomial: 0.00030178209864083335
+
+Degree 1 polynomial has the lowest validation error (0.00028095728458445764).
+Testing error for degree 1 polynomial: 0.00029173936402453643
+Reference error: 0.00029044724197249493
