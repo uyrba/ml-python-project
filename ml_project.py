@@ -83,5 +83,4 @@ y_predicted = regression.predict(X_testing_poly)
 print('Testing error for degree %d polynomial: %s' % (degrees[min_index], str(mean_absolute_error(y_testing, y_predicted))))
 
 #Calculate simple reference error using average value.
-average = np.average(y)
-print('Reference error: %s' % (str(mean_absolute_error(y, np.full(y.shape, average)))))
+print('Reference error: %s' % (str(mean_absolute_error(y_testing, np.full(y_testing.shape, np.average(y_training))))))

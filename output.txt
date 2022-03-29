@@ -38,4 +38,4 @@ Validation error for degree 15 polynomial: 0.00030178209864083335
 
 Degree 1 polynomial has the lowest validation error (0.00028095728458445764).
 Testing error for degree 1 polynomial: 0.00029173936402453643
-Reference error: 0.00029044724197249493
+Reference error: 0.00030037531518596193
